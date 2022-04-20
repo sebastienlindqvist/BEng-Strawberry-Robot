@@ -10,7 +10,7 @@ It went through many design considerations such as whether or not it should be a
 ### Computer Vision
 - OpenCV was very easy to install on my main computer I was coding on. When it came to installing the latest version of OpenCV for python on the raspberry pi that was controlling the robot. It did hit some snags as in installing an older version and code had to be slightly altered.
 -
-- this is a test
+- this is a test 3
 
 
 
